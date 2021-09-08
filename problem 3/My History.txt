@@ -1,0 +1,290 @@
+    1  passwd
+    2  bin
+    3  pwd
+    4  cd ~
+    5  ls
+    6  mkdir
+    7  mkdir --help
+    8  mkdir bin
+    9  pwd
+   10  mkdir bin
+   11  mkdir scripts
+   12  mkdir projects
+   13  tree ~
+   14  pwd
+   15  mkdir assigments
+   16  cd assigments
+   17  git clone https://github.com/ckuo008/trgn510_assignment1.git
+   18  cd trgn510_assignment1
+   19  vim Readme.md
+   20  cd trgn510_assigment1
+   21  cd trgn510_assignment1
+   22  pwd
+   23  tree~
+   24  pwd
+   25  tree~
+   26  cd assigments
+   27  pwd
+   28  cd trgn510_assignment1
+   29  git clone http://github.com/ckuo008/trgn510_assignment1.git
+   30  git clone https://github.com/ckuo008/trgn510_assignment1.git
+   31  cd trgn510_assignment1
+   32  vim Readme.md
+   33  pwd
+   34  cd trgn510_assignment1
+   35  Readme
+   36  git add. -A
+   37  git commit -m "First commit"
+   38  git push
+   39  git add . -A
+   40  git commit -m "First commit"
+   41  git config --global chiayunk@usc.edu
+   42  git config --global ckuo008 "ChiaYun Kuo"
+   43  git config --global "chiayunk@trgn.usc.edu"
+   44  git config --global user.email "you@example.com"
+   45  gif config --global user.name "Chia-Yun Kuo"
+   46  git config --global user.name "Chia-Yun Kuo"
+   47  git commit -m "First commit"
+   48  git push
+   49  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
+   50  git push
+   51  pwd
+   52  cd~/assignments/trgn_assignment1
+   53  cd ~/assignments/trgn_assignment1
+   54  cd trgn510_assignment1
+   55  cd ~/assignments/trgn_assignment1/problem1
+   56  cd assignnment
+   57  cd trgn_assignment1
+   58  cd assignments
+   59  cd assignment
+   60  cd assignments
+   61  cd trgn510_assignment1
+   62  mdkir problem1
+   63  mkdir problem1
+   64  history
+   65  >
+   66  cd problem1
+   67  mdkir myhistory.txt
+   68  mkdir myhistory.txt
+   69  cd history > myhistory.problem1.txt
+   70  history
+   71  mkdir myhistory.txt
+   72  history > myhistory.problem1.txt
+   73  mkdir history > myhistory.problem1.txt
+   74  cat
+   75  cd problem1
+   76  pwd
+   77  cd assignment 1
+   78  cd trgn510_assignment 1
+   79  cd trgn510_assingment 1
+   80  cd trgn510_assignment1
+   81  tree~
+   82  cat --help
+   83  -A
+   84  --show--all
+   85  cd bin
+   86  cd problem1
+   87  cd trgn_assignment1
+   88  cd v
+   89  cdtrgn_assignment1
+   90  cd trgn_assignment1
+   91  cd assignments
+   92  cd asscd assignments
+   93  cd assignments
+   94  pwd
+   95  cd assignments
+   96  pwd
+   97  mkdir assignments
+   98  mkdir assignemtns
+   99  pwd
+  100  mkdir assignments
+  101  git clone https://github.com/davcraig75/trgn510_assignment1.git
+  102  git clone https://github.com/chiayunk/trgn510_assignment1.git
+  103  git add. -A
+  104  cd trgn510_assignment1
+  105  mkdir git add . -A
+  106  git commit -m "First commit"
+  107  mkdir problem1
+  108  history
+  109  mkdir myhistory.txt
+  110  mkdir problem2
+  111  mkdir problem 2
+  112  mkdir problem2
+  113  git rm problem 2
+  114  git rm problem2
+  115  del problem 2
+  116  del /f problem 2
+  117  cd trgn510_assignment1
+  118  cd problem2
+  119  cp /data/bashrc ~/assignments/trgn_assignment1/problem2/.
+  120  ls -la
+  121  cd trgn_assignment1
+  122  cd assignments
+  123  pwd
+  124  cd trgn_assignment1
+  125  cd home
+  126  cd trgn510_assignment1
+  127  cd home
+  128  <
+  129  cd trgn510_assignment1
+  130  pwd
+  131  cd trgn510_assignment1
+  132  mkdir problem 3
+  133  mkdir 'problem 3'
+  134  cd 'problem 3'
+  135  ls -1
+  136  cd trgn510_assignments1
+  137  cd ..
+  138  ls -1
+  139  rm -r dir_myhistory.txt
+  140  rm -r dir_2
+  141  rm -r myhistory.txt
+  142  rm -r 2
+  143  rm -r 3
+  144  ls -la
+  145  ls -a
+  146  ls -t
+  147  rm -r problem
+  148  ls -t
+  149  ls
+  150  cd 'problem 3'
+  151  mkdir history > My History.txt
+  152  history
+  153  cd ..
+  154  cd problem1
+  155  ls
+  156  pwd
+  157  cd ..
+  158  cd assignments
+  159  cd home
+  160  cd assignments
+  161  cd problem1
+  162  cd trgn_assignment1
+  163  cd home
+  164  ls
+  165  la
+  166  cd chiayunk
+  167  ls
+  168  cd assignments
+  169  ls
+  170  la
+  171  ls
+  172  cd ..
+  173  ls
+  174  cp -r trgn510_assignment1
+  175  cd -r trgn510_assignment1
+  176  cp --help
+  177  ls
+  178  rm assigments
+  179  ls
+  180  rmdir assigments
+  181  cd assigments
+  182  ls
+  183  cd trgn510_assignment1
+  184  ls
+  185  la
+  186  ls
+  187  cd ..
+  188  rm trgn510_assignment1
+  189  rmdir trgn510_assignment1
+  190  cd trgn510_assignment1
+  191  ls
+  192  ls -l
+  193  cd
+  194  ls
+  195  trgn510_assigment1
+  196  cd trgn510_assigment1
+  197  cd trgn510_assignment1
+  198  ls
+  199  cd ..
+  200  cd assignments
+  201  ls
+  202  cd ..
+  203  ls
+  204  rmdir assignments
+  205  ls
+  206  cd..
+  207  ls
+  208  rm -r trgn510_assignment1
+  209  ls
+  210  rm 0r assignments
+  211  rm -r assigments
+  212  ls
+  213  pwd
+  214  ls
+  215  mkdir assignments
+  216  ls
+  217  cd assignments
+  218  git clone https://github.com/ckuo008/trgn510_assignment1.git
+  219  cd trgn510_assignment1
+  220  ls
+  221  vim Readme.md
+  222  ls
+  223  cd trgn510_assignment1
+  224  ls
+  225  cd trgn510_assignment1
+  226  cd assignments
+  227  cd trgn510_assignment1
+  228  ls
+  229  vim Readme.md
+  230  ls
+  231  cd assignments
+  232  ls
+  233  # Assignment 1
+  234  ## Instructions
+  235  The instructions are in this location for my homework
+  236  ## Usage
+  237  Here I am using a codeblock:
+  238  ```
+  239  cd ~
+  240  tree
+  241  ```
+  242  ## To Do
+  243  ls
+  244  cd trgn510_assignment1
+  245  ls
+  246  vim Readme.md
+  247  ls
+  248  cd assignments
+  249  git clone https://github.com/ckuo008/trgn510_assignment1.git
+  250  cd trgn510_assignment1
+  251  ls
+  252  git add . -A
+  253  git commit -m "First commit"
+  254  git push
+  255  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
+  256  git push
+  257  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
+  258  git push
+  259  ls
+  260  mkdir problem1
+  261  ls
+  262  history
+  263  pwd
+  264  cd problem1
+  265  pwd
+  266  history > myhistory.problem1.txt
+  267  ls
+  268  head
+  269  pwd
+  270  ls
+  271  cd assignments
+  272  ls
+  273  cd trgn510_assignment1
+  274  ls
+  275  cd problem1
+  276  ls
+  277  cd ..
+  278  ls
+  279  mkdir problem2
+  280  ls
+  281  mkdir 'problem 3'
+  282  ls
+  283  ls -l
+  284  cd 'problem 3'
+  285  pwd
+  286  history > My History.txt
+  287  ls
+  288  rm My
+  289  ls
+  290  history > 'My History'.txt
