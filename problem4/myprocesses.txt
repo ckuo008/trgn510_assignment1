@@ -1,0 +1,5 @@
+root     239613   2198  0 15:32 ?        00:00:00 sshd: chiayunk [priv]
+chiayunk 239619 239613  0 15:32 ?        00:00:00 sshd: chiayunk@pts/0
+chiayunk 239620 239619  0 15:32 pts/0    00:00:00 -bash
+chiayunk 239771 239620  0 15:36 pts/0    00:00:00 ps -ef
+chiayunk 239772 239620  0 15:36 pts/0    00:00:00 grep --color=auto chiayunk
